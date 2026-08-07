@@ -1,4 +1,4 @@
-## Holaa amigos todos 👋
+### <span style="color: #ff69b4;"Holaa amigos todos" 👋
 
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
