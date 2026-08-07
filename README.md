@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-<div align="center">
+<div>
   <img src="https://komarev.com/ghpvc/?username=syifamaimunah52-dev&color=brightgreen" />
 </div>
 
