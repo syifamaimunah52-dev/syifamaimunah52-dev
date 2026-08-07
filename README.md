@@ -1,10 +1,9 @@
 > ### <span style="color: #CF4173;">Holaa amigos todos 👋</span>
 
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,18,25&height=180&section=header&text=Hi%20There,%20I'm%20Syifa!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+  <img src="https://github-readme-stats.vercel.app/api?username=syifamaimunah52-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syifamaimunah52-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26" width="48%" />
 </p>
-
 
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
