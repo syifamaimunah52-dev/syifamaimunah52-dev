@@ -1,8 +1,7 @@
 > ### <span style="color: #CF4173;">Holaa amigos todos 👋</span>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syifamaimunah52-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syifamaimunah52-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26" width="48%" />
+  <img src="https://raw.githubusercontent.com/Platane/platane/master/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 <p>
